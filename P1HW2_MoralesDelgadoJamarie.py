@@ -30,7 +30,7 @@ print()
 hotel = float(input("Approximately, how much will you need for accomodation/hotel:  "))
 print()
 
-food = float(input("Last, how much do you eed for food?  "))
+food = float(input("Last, how much do you need for food?  "))
 
 # Summary of Expenses
 expenses = gas + hotel + food
